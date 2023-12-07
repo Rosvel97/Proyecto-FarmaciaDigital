@@ -1,0 +1,734 @@
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formMenu.resources
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formCapturaDatos.resources
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.formMenu.resources
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\Proyecto Farmacia Digital\FarmaciaDigital\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formCapturaDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formMenu.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Leslie\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe
+C:\Users\Leslie\Desktop\FarmaciaDigital2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CapaPresentacion.FormMostrarDatos.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.exe
+C:\Users\Leslie\Desktop\FarmaciaDigital2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CapaPresentacion.FormMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.formLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigital2\FarmaciaDigital2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital2\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2.1\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2.1\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2.1\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV2.1\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\FarmaciaDigitalV3\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.exe
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.exe
+C:\Users\Meza\Downloads\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV4\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Cambios\FarmaciaDigitalV5\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris KPC\Documents\Proyectos\FarmaciaDigitalV5\FarmaciaDigitalV5\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.1\obj\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FrmAyuda.frmAyuda.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV5.2\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Revisar\FarmaciaDigitalV.2\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV.2.1\FarmaciaDigitalV.2.1\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\Nueva carpeta\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V7\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\VERSION FM FINAL\Proyecto de catedra 4ta entrega\FarmaciaDigital V6\FarmaciaDigital V6\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+K:\DescargasOPERA\sound effects\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\RecetaMedica.MostrarReceta.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\RecetaMedica.MostrarReceta.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\Leslie\Desktop\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Documentos\FarmaciaDigitalV7\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.pdb
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe
+C:\Users\PEPE\Desktop\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigitalV8 (2)\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.application
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigitalV8 B\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.application
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe.manifest
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.application
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe.manifest
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.application
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.exe
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\obj\Debug\FarmaciaDigital.pdb
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\Resources\logominsal.png
+C:\Users\Chris\Desktop\FarmaciaDigital Version Final\FarmaciaDigitalV8\bin\Debug\Resources\PiePagina.png
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\Resources\logominsal.png
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\Resources\PiePagina.png
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.application
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.application
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\Resources\logominsal.png
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\Resources\PiePagina.png
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe.config
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.application
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\bin\Debug\FarmaciaDigital.pdb
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.AssemblyReference.cache
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CuadroDialogo.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmCambioContrase.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FrmAyuda.frmSugerencias.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\ProyectoVarios.frmCargando.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.frmEditarMedi.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.FrmEditarPaciente.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaMedicamentos.frmIngresoMed.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.CapaPresentacion.frmMostrarDatos.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmLogin.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmCapturaDatos.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.frmMenu.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\QuienesSomos.frmQuienesSomos.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\Mostrar_Medicamento.frmMostrarMeds.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\RecetaMedica.frmReceta.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.Properties.Resources.resources
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.exe.manifest
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.application
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.exe
+C:\Users\sande\OneDrive\Escritorio\PROYECTOS TERMINADOS PROGRAMACION\FarmaciaDigital Version Final\FarmaciaDigital - Final\obj\Debug\FarmaciaDigital.pdb
